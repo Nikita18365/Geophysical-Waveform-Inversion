@@ -1,5 +1,7 @@
 # Geophysical-Waveform-Inversion
-Estimate subsurface properties — velocity maps — from on seismic waveform data {Source: https://www.kaggle.com/competitions/waveform-inversion}
+Estimate subsurface properties — velocity maps — from on seismic waveform data 
+
+{Source: https://www.kaggle.com/competitions/waveform-inversion}
 
 In this code, estimate subsurface properties— velocity maps—from on seismic waveform data. Known as Full Waveform Inversion (FWI), this process could lead to more accurate and efficient seismic analysis, making it more useful in a variety of fields.
 
